@@ -2,9 +2,9 @@
   "name": "kemosalvo",
   "version": "0.0.1",
   "description": "butonlu register",
-  "main": "borangkdn.js",
+  "main": "kemosalvo.js",
   "scripts": {
-    "start": "node borangkdn.js"
+    "start": "node kemosalvo.js"
   },
   "author": "kemosalvo",
   "license": "MIT",
